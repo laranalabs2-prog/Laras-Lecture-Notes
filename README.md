@@ -1,18 +1,13 @@
 # Lara-Lecture-Notes
 This repository is a personal project aimed at improving my skills in LaTeX, Manim, and scientific communication.
 
-The notes are designed to be visually rich, intuition-driven introductions to topics in applied mathematics and physics. Rather than functioning as comprehensive textbooks, they focus on developing conceptual understanding and mental models that students can build upon as they progress to more advanced study.
+The notes are designed to be visual, intuition-driven introductions to topics in math and the physical sciences.
 
-Because the intended audience is primarily students interested in physics, engineering, and related fields, mathematical rigor is occasionally de-emphasized in favor of clarity and intuition. 
+Because the intended audience is primarily undergraduates and high schoolers interested in physics, engineering, and related fields, mathematical rigor is occasionally de-emphasized in favor of clarity. 
 
-Commonly used informal interpretations are adopted when they aid understanding. For example, derivatives may be discussed as ratios of differentials, despite the more nuanced formal treatment found in advanced mathematics. Such simplifications are made deliberately and are not intended to obstruct future study of the subject.
+Commonly used informal interpretations are adopted when they aid understanding. For example, derivatives are discussed as ratios of differentials, despite the more nuanced formal treatment found in advanced study. Such simplifications are noted in the text and should not obstruct future study of the subject.
 
-These notes are NOT a replacement for comprehensive textbooks or formal coursework. Instead, they are intended to provide:
--Quick conceptual references
--Visual explanations and geometric intuition
--Insight into my approach to teaching and tutoring
-
-In short, my goal is to make a student's first encounter with a topic engaging, approachable, and motivating.
+These notes are NOT a replacement for comprehensive textbooks or formal coursework. The goal is to make a student's first encounter with a topic engaging and approachable at a glance.
 
 
 # PROJECT STATUS
