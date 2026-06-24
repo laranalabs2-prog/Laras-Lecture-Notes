@@ -1,11 +1,11 @@
 # Lara-Lecture-Notes
-This repository is a personal project aimed at improving my skills in LaTeX, Manim, and scientific communication.
+This repository is a personal project aimed at improving my skills in LaTeX, Manim, and scientific communication more generally.
 
 The notes are designed to be visual, intuition-driven introductions to topics in math and the physical sciences.
 
 Because the intended audience is primarily undergraduates and high schoolers interested in physics, engineering, and related fields, mathematical rigor is occasionally de-emphasized in favor of clarity. 
 
-Commonly used informal interpretations are adopted when they aid understanding. For example, derivatives are discussed as ratios of differentials, despite the more nuanced formal treatment found in advanced study. Such simplifications are noted in the text and should not obstruct future study of the subject.
+Commonly used informal interpretations are adopted when they aid understanding. For example, derivatives are discussed as ratios of differentials, despite the more nuanced formal treatment found in advanced study. Such simplifications should not obstruct future study of the subject.
 
 These notes are NOT a replacement for comprehensive textbooks or formal coursework. The goal is to make a student's first encounter with a topic engaging and approachable at a glance.
 
